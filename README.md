@@ -7,8 +7,8 @@ Welcome to the "How to Dress Today" project! This guide will walk you through th
 - [Step-by-Step Explanation](#step-by-step-explanation)
 - [Full Code](#full-code)
 - [Running the Code](#running-the-code)
-  - [Running Locally](#running-locally)
-  - [Running Online](#running-online)
+- [Running Locally](#running-locally)
+- [Running Online](#running-online)
 
 ## Step-by-Step Explanation
 

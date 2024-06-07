@@ -6,7 +6,7 @@ Welcome to the "How to Dress Today" project! This guide will walk you through th
 
 - ##### [Step-by-Step Explanation](#step-by-step-explanation)
 - ##### [Full Code](#full-code)
-- ##### [Running the Code](#running-the-code)
+- ##### [Running the Code](#####Running-the-Code)
 - ##### [Running Locally](#running-locally)
 - ##### [Running Online](#running-online)
 
@@ -154,60 +154,60 @@ if __name__ == "__main__":
 ##### Steps:
 
 ##### 1. **Set Up Your Environment:**
-    - ##### Ensure Python is installed on your machine. You can download it from [python.org](https://www.python.org/).
+- ##### Ensure Python is installed on your machine. You can download it from [python.org](https://www.python.org/).
     - ##### Install the `requests` library if you don't have it already. You can do this via pip:
       ```bash
       pip install requests
       ```
 
 ##### 2. **Save the Code:**
-    - ##### Create a new Python file (e.g., `how_to_dress_today.py`) and paste the complete code into this file.
+- ##### Create a new Python file (e.g., `how_to_dress_today.py`) and paste the complete code into this file.
 
 ##### 3. **Replace API Key:**
-    - ##### Replace `'your_api_key_here'` in the `get_weather` function with your actual API key from OpenWeatherMap.
+- ##### Replace `'your_api_key_here'` in the `get_weather` function with your actual API key from OpenWeatherMap.
 
 ##### 4. **Run the Code:**
-    - ##### Open a terminal or command prompt.
-    - ##### Navigate to the directory where your Python file is located.
-    - ##### Run the script using Python:
+- ##### Open a terminal or command prompt.
+- ##### Navigate to the directory where your Python file is located.
+- ##### Run the script using Python:
       ```bash
       python how_to_dress_today.py
       ```
 
 ##### 5. **Follow the Prompts:**
-    - ##### The script will prompt you to enter your city. After entering the city name, it will fetch the weather data and provide clothing recommendations.
+- ##### The script will prompt you to enter your city. After entering the city name, it will fetch the weather data and provide clothing recommendations.
 
-##### Running Online
+#### Running Online
 
 ##### Using Online Python Interpreters:
 
 ##### 1. **Google Colab:**
-    - ##### Go to [Google Colab](https://colab.research.google.com/).
-    - ##### Create a new notebook.
-    - ##### Copy and paste the code into a code cell.
-    - ##### Run the code cell.
+- ##### Go to [Google Colab](https://colab.research.google.com/).
+- ##### Create a new notebook.
+- ##### Copy and paste the code into a code cell.
+- ##### Run the code cell.
 
 ##### 2. **Repl.it:**
-    - ##### Go to [Repl.it](https://replit.com/).
-    - ##### Create a new Python project.
-    - ##### Paste the code into the main.py file.
-    - ##### Replace `'your_api_key_here'` with your actual API key.
-    - ##### Click the "Run" button.
+- ##### Go to [Repl.it](https://replit.com/).
+- ##### Create a new Python project.
+- ##### Paste the code into the main.py file.
+- ##### Replace `'your_api_key_here'` with your actual API key.
+- ##### Click the "Run" button.
 
 ##### 3. **Jupyter Notebook:**
-    - ##### If you have Jupyter Notebook installed, you can create a new notebook.
-    - ##### Copy and paste the code into a cell.
-    - ##### Run the cell.
+- ##### If you have Jupyter Notebook installed, you can create a new notebook.
+- ##### Copy and paste the code into a cell.
+- ##### Run the cell.
 
 ##### Using an IDE:
 
 ##### 1. **Visual Studio Code:**
-    - ##### Install Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/).
-    - ##### Install the Python extension for VS Code.
-    - ##### Open a new file and save it with a `.py` extension.
-    - ##### Paste the code into the file.
-    - ##### Replace `'your_api_key_here'` with your actual API key.
-    - ##### Run the script using the integrated terminal.
+- ##### Install Visual Studio Code from [code.visualstudio.com](https://code.visualstudio.com/).
+- ##### Install the Python extension for VS Code.
+- ##### Open a new file and save it with a `.py` extension.
+- ##### Paste the code into the file.
+- ##### Replace `'your_api_key_here'` with your actual API key.
+- ##### Run the script using the integrated terminal.
 
 ##### By following these steps, you should be able to run the "How to Dress Today" script and get clothing recommendations based on the weather in your city.
 
